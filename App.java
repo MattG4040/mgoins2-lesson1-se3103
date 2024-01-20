@@ -7,5 +7,5 @@ public class App{
         win.init();
 
         win.setVisible(true);
-    } //change
+    }
 }
