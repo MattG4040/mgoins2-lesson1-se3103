@@ -22,5 +22,5 @@ public class AppWindow extends JFrame {
             canvas.randomNumber = n;
             canvas.repaint();
         });
-    }//change test
+    }
 }
